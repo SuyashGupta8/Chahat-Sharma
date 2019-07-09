@@ -217,7 +217,7 @@ function crateButton(content, type, id, className, behaviour, parentId){
 
 function downloadResume() {
     var link = document.createElement('a');
-    link.href = "https://github.com/SuyashGupta8/ChahatSharma/blob/master/Chahat_Sharma_resume.docx";
+    link.href = "https://github.com/SuyashGupta8/ChahatSharma/blob/master/Chahat_Sharma_resume.docx";//updated
     link.download = 'Chahat_Sharma_resume.docx';
     link.dispatchEvent(new MouseEvent('click'));
 	}
