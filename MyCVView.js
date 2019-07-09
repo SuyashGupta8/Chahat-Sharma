@@ -113,7 +113,7 @@ function buildResume(){
 	buildTable(thirdTableData, "table", "thirdTable", "mainBody", "myTable");
 
 	breakLineDiv("tenthBreak","hr");
-	crateButton("Download Resume", "BUTTON", "downloadResume", "myResumeButton", downloadResume, "mainBody")
+	//crateButton("Download Resume", "BUTTON", "downloadResume", "myResumeButton", downloadResume, "mainBody")
 
 }
 
