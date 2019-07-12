@@ -69,7 +69,7 @@ var thirdTableData = {
 buildResume();
 function buildResume(){
 	
-	addImage("./CuteDog.jpg", "myImage", "myImageClass");
+	addImage("./chahatsharma2.JPG", "myImage", "myImageClass");
 	buildSections("div", "hiddenContact", "mainBody", "hiddenClass",  contactDetails );
 	breakLineDiv("firstBreak", "hr");
 	
